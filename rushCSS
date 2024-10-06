@@ -1,0 +1,73 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    background-image: url("misc/grille.png");
+    height: 200px;
+    background-size: 180p;
+
+}
+
+#vide {
+    margin-top: 100px;
+}
+
+#grille2 {
+    background-image: url("misc/grille.png");
+    height: 100px;
+}
+   footer {
+        margin: 0;
+
+   }
+
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.logo img {
+    height: 80px; 
+}
+
+.nav-menu {
+    display: flex;
+    gap: 30px; 
+}
+
+.nav-menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-menu h2 {
+    font-size: 1.2em;
+    color: #5a5757; 
+    margin-bottom: 10px;
+}
+
+.nav-menu li {
+    color: #5a5757;
+    margin-bottom: 5px;
+
+}
+body {
+    font-family: 'Droid Serif', serif; /* Police principale */
+    color: #A9A9A9; /* Couleur gris clair */
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif; 
+    color: #f96102; 
+}
+h3 {
+    font-family: 'Oswald', serif;
+    color: #A9A9A9; 
+}
+
+h4 {
+    font-family: 'Droid sans', serif;
+    color: #A9A9A9; 
+}
