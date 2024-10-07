@@ -54,33 +54,32 @@
         <p>Services haut de gamme et confort 5 étoiles : Notre compagnie est fière de vous accueillir !</p>
     </div>
 
+        <div class="articles">
+            <div class="article golf">
+                <h3>GOLF</h3>
+                <h4>Publié le 10-12-2024</h4>
+                <img src="misc/golf.jpg" alt="Image de golf">
 
-        <div class="article">
-            <h1>GOLF</h1>
-            <p>Publié le 10-12-2024</p>
-            <img src="misc/golf.jpg" alt="Image de golf">
-            <p>Le golf est ouvert 24/24h, venez faire le parcours quand vous le souhaitez ! Un mini-golf est aussi disponible...</p>
-            <p><a href="page-golf.html">Lire plus →</a></p>
-        </div>
-        <div class="article">
-            <h1>ACCROBRANCHE</h1>
-            <p>Publié le 11-11-2023</p>
-            <p>Plusieurs parcours aventures dans les arbres jusqu'à plus de 20 mètres de hauteur ! Venez essayer la plus grande tyrolienne d'Europe...</p>
-            <p><a href="page-accrobranche.html">Lire plus →</a></p>
-
-        </div>
-        <div class="article">
-            <h1>FAST FOODS</h1>
-            <p>Publié le 26-01-2026</p>
-            <p>Venez déguster nos Big Burgers, les meilleurs de Paris. Découvrez comment ils sont faits et choisissez vous-même les ingrédients...</p>
-            <p><a href="page-fast-foods.html">Lire plus →</a></p>
-        </div>
-        <div class="article">
-            <h1>COMMENTAIRES</h1>
-            <p>Publié le 4-12-2026</p>
-            <p>Super expérience, le sauna est très agréable, le cadre est magnifique, la literie est confortable, les restaurants sont délicieux, je reviendrai l'an prochain !</p>
-            <p><a href="page-commentaires.html">Lire plus →</a></p>
-            <div class="accrobranche-images">
+                <p>Le golf est ouvert 24/24h, venez faire le parcours quand vous le souhaitez ! Un mini-golf est aussi disponible...</p>
+                <p><a href="#">Lire plus →</a></p>
+            </div>
+            <div class="article accrobranche">
+                <h3>ACCROBRANCHE</h3>
+                <h4>Publié le 11-11-2023</h4>
+                <p>Plusieurs parcours aventures dans les arbres jusqu'à plus de 20 mètres de hauteur ! Venez essayer la plus grande tyrolienne d'Europe...</p>
+                <p><a href="#">Lire plus →</a></p>
+            </div>
+            <div class="article fast-food">
+                <h3>FAST FOOD</h3>
+                <h4>Publié le 26-01-2026</h4>
+                <p>Venez déguster nos Big Burgers, les meilleurs de Paris. Découvrez comment ils sont faits et choisissez vous-même les ingrédients...</p>
+                <p><a href="#">Lire plus →</a></p>
+            </div>
+            <div class="article commentaires">
+                <h3>COMMENTAIRES</h3>
+                <h4>Publié le 04-12-2026</h4>
+                <p>Super expérience, le sauna est très agréable, le cadre est magnifique, la literie est confortable, les restaurants sont délicieux, je reviendrai l'an prochain !</p>
+                <p><a href="#">Lire plus →</a></p>
                 <img src="misc/accrobranche.jpg" alt="Accrobranche">
                 <img src="misc/accrobranche.jpg" alt="Accrobranche">
                 <img src="misc/accrobranche.jpg" alt="Accrobranche">
@@ -89,10 +88,10 @@
                 <img src="misc/accrobranche.jpg" alt="Accrobranche">
             </div>
         </div>
+        
 </body>
 
 <footer>
-    <nav class="nav-menu">
     <div class="footer-section">
         <div class="grille">       
    
@@ -104,27 +103,20 @@
      </div>
     </div>
     <div class="footer-section">
-        <div class="grille">       
 
         <h3>DERNIER BILLET</h3>
         <p>15 sept 2019 - Garde d'animaux</p>
         <p>Nouveau service au sein de notre compagnie, laissez votre toutou une journée pour vous reposer...</p>
         </div>
-    </div>
     <div class="footer-section">
-        <div class="grille">       
         <h3>DERNIER COMMENTAIRE</h3>
         <p>01 mar 2020 - Merci à toute l'équipe</p>
         <p>L'accrobranche est vraiment génial, je le recommande pour les enfants qui vont s'amuser en grimpant dans les arbres...</p>
     </div>
-    </div>
     <div class="footer-section">
-        <div class="grille">       
         <h3>BLABLALAND</h3>
         <p>Ce texte ne sert à rien mais il est important de le recopier parce que c'est demandé dans le sujet, bon courage!</p>
     </div>
-    </div>
-    </nav>
 
     <p>Presse｜Blog｜Nous contacter｜À propos</p>
     <p>Copyright &copy; 2014 ABC Compagnie.</p>
