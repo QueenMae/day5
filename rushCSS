@@ -71,3 +71,42 @@ h4 {
     font-family: 'Droid sans', serif;
     color: #A9A9A9; 
 }
+
+.articles {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin: 20px;
+}
+
+.article {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    font-family: 'Droid Serif', serif;
+    color: #A9A9A9;
+}
+
+.golf {
+    grid-column: 1 / 2;
+}
+
+.accrobranche {
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+}
+
+.fast-food {
+    grid-column: 3 / 4;
+    grid-row: 1 / 2;
+}
+
+.commentaires {
+    grid-column: 2 / 3;
+    grid-row: 2 / 2;
+    text-align: right; 
+}
+.article h3 {
+    font-family: 'Oswad', sans-serif;
+    color: #FFA500;
+}
